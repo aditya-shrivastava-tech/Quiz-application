@@ -1,0 +1,2 @@
+What does OS stand for?:Operating System:Open Software:Optical Storage:Operational Support:Operating System
+Which part of the OS manages memory?:Memory Management Unit:Kernel:Application Layer:Device Driver:Memory Management Unit

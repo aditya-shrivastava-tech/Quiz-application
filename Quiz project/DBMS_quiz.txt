@@ -1,0 +1,2 @@
+What does DBMS stand for?:Database Management System:Database Monitoring Software:Digital Business System:Data Broadcasting Module:Database Management System
+Which SQL command is used to retrieve data?:SELECT:INSERT:DELETE:UPDATE:SELECT

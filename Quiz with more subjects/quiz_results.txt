@@ -1,0 +1,2 @@
+aditya:DBMS:0
+aditya:Operating System:2

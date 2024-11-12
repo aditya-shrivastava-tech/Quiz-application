@@ -1,0 +1,2 @@
+What is the full form of ML?:Machine Learning:Meta Language:Machine List:Managed Language:Machine Learning
+Which library is commonly used for machine learning in Python?:scikit-learn:numpy:pandas:matplotlib:scikit-learn

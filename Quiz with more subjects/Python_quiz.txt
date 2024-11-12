@@ -1,0 +1,2 @@
+Which keyword is used to define a function in Python?:def:function:fun:define:def
+What is the correct file extension for Python files?:.py:.python:.pt:.pyt:.py
